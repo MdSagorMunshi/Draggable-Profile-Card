@@ -2,6 +2,9 @@
 
 This is a minimalistic profile card component with draggable functionality built using React and Next.js. The profile card features animations for smooth transitions when dragged across the page. It includes a profile picture, name, occupation, brief description, and contact information, along with social media links represented by small circular icons.
 
+**Live Site: [thesagor.com](https://thesagor.com)**
+
+**Live Site Vercel: [ryanL.vercel.app](https://ryanl.vercel.app)**
 ## Features
 
 - Draggable profile card with smooth animations.
