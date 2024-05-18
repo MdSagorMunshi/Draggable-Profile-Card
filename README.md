@@ -41,7 +41,7 @@ project-directory/
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/draggable-profile-card.git
+git clone https://github.com/MdSagorMunshi/draggable-profile-card.git
 cd draggable-profile-card
 ```
 
